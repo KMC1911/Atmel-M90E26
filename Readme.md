@@ -16,6 +16,6 @@ FOUR-WIRE MODE
 >註: 讀取模式第一位為 1 (HIGH)，寫入模式則是 0 (LOW)     
 ------------------------
 ### Read Sequence  
-![read-mode](uploads/ac2a42fb08c6d1174d255656f755e1a8/read-mode.PNG)  
+![read-mode](https://github.com/KMC1911/Atmel-M90E26/blob/main/Pictures/read-mode.PNG)  
 ### Write Sequence  
 ![write-mode](uploads/4c113a8a3729b414e152c671a0dd05d5/write-mode.PNG)
