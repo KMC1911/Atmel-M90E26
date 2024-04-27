@@ -18,4 +18,4 @@ FOUR-WIRE MODE
 ### Read Sequence  
 ![read-mode](https://github.com/KMC1911/Atmel-M90E26/blob/main/Pictures/read-mode.PNG)  
 ### Write Sequence  
-![write-mode](uploads/4c113a8a3729b414e152c671a0dd05d5/write-mode.PNG)
+![write-mode](https://github.com/KMC1911/Atmel-M90E26/blob/main/Pictures/write-mode.PNG)
